@@ -14,13 +14,13 @@ CURRENT:
 
 ## Unselected
 
-<img src="./assets/1.png" style="zoom:25%;" />
+<img src="./assets/1.png" style="zoom:2.5%;" />
 
 
 
 ## Selected
 
-<img src="./assets/2.png" style="zoom:25%;" />
+<img src="./assets/2.png" style="zoom:2.5%;" />
 
 
 
